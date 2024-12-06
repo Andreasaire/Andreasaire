@@ -39,13 +39,12 @@
 ### Conéctate conmigo <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px">
 
 <p>
-    <a href="https://www.linkedin.com/in/tu-perfil-linkedin"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="32px" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/andrea-saire-549376289/"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" width="32px" alt="LinkedIn"></a>
     <a href="https://twitter.com/tu_usuario_twitter"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="32px" alt="Twitter"></a>
     <a href="https://github.com/AndreaSaire"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32px" alt="GitHub"></a>
 </p>
-<a href="https://www.facebook.com/tuperfil"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/> </a>
-<a href="https://www.instagram.com/tuperfil"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/> </a>
-<a href="mailto:tuemail@gmail.com"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/> </a>
+<a href="https://www.facebook.com/andrea.saire.12"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/> </a>
+<a href="https://www.instagram.com/andrea.saire.01/"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/> </a>
 
 ---
 
