@@ -43,6 +43,9 @@
     <a href="https://twitter.com/tu_usuario_twitter"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" width="32px" alt="Twitter"></a>
     <a href="https://github.com/AndreaSaire"><img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" width="32px" alt="GitHub"></a>
 </p>
+<a href="https://www.facebook.com/tuperfil"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/> </a>
+<a href="https://www.instagram.com/tuperfil"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/> </a>
+<a href="mailto:tuemail@gmail.com"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/> </a>
 
 ---
 
